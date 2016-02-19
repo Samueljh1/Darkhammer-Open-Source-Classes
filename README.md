@@ -1,4 +1,4 @@
-![Darkhammer Network](http://darkhammer.net/cdn/Banner.png)
+![Darkhammer Network](https://camo.githubusercontent.com/39de6912f97ec436733fdc42958ccb042350b6a7/687474703a2f2f6461726b68616d6d65722e6e65742f63646e2f42616e6e65722e706e67)
 
 # Darkhammer-Open-Source-Classes
 
