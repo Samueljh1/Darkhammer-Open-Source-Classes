@@ -39,11 +39,6 @@ class RunTask extends Task {
         $this->function = $function;
         $this->data = func_get_args();
 
-        //This block can be removed; It is only here to add support for another class
-        if(count($this->data) === 2 && is_array($this->data[1])) {
-            $this->data = $this->data[1];
-        }
-
         array_shift($this->data);
 
     }
