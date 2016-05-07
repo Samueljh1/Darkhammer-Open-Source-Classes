@@ -6,6 +6,8 @@ This Repo Contains Useful Classes Created for the Darkhammer Network that are 10
 
 All Credits go to me, @Samueljh1 and any Contributers on this Repo.
 
+Note: The Darkhammer Network is no longer in PHP, meaning no future classes will be added or updated.
+
 # Contributing
 
 If you wish to contribute, please do the following:
